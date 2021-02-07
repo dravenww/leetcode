@@ -1,0 +1,9 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "dependencies": {
+  }
+}
